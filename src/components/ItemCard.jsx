@@ -14,7 +14,7 @@ const ItemCard = ({id , name , qty , price , img }) => {
       <img
         src={img}
         alt=""
-        className="w-[50px] h-[50px]"
+        className="w-12.5 h-12.5"
       />
 
       <div className="leading-5">
